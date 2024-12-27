@@ -1,0 +1,6 @@
+opencv-python
+pyqtgraph
+scikit-image
+PyWavelets
+cv2
+matplotlib
